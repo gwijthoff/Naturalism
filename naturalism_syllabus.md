@@ -1,21 +1,20 @@
----
-title: |
-    **ENGL W3632:\ \
-    The Science of Fiction:\ American Naturalism, 1890-1940** \
-    Spring 2016 \
-    309 Hamilton Hall \| Tuesday, 10:10 - 12:00
-author: |
-    Professor:\ Grant Wythoff\
-    \(<gw2290@columbia.edu>\)\
-    Heyman Center 304\
-    Office Hours by appointment
----
+# ENGL W3632: The Science of Fiction: </div> American Naturalism, 1890-1940
 
-![](cc-by.png)
+**Spring 2016**
 
-*This syllabus is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).*
+**309 Hamilton Hall | Monday, 10:10 - 12:00**
 
-* * * * * * 
+* * * * * 
+
+**Professor | Grant Wythoff (<gw2290@columbia.edu>)**
+
+**Office hours by appointment | Heyman Center 304**
+
+* * * * * 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This syllabus is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+* * * * * 
 
 [**Skip to the schedule…**](#schedule)
 
@@ -47,17 +46,15 @@ Grade breakdown
 
 **10% participation in class**
 
-Seminar discussion: your thoughtful participation is required. I do not expect everyone’s manner of thoughtful participation to be identical.  In addition, each student will give a **brief presentation** (of no more than 10 minutes) once during the semester to open up our readings to discussion.  Your presentation can involve a close reading of a particular passage, a short activity, or a complication of one of the points made by our authors.  You are not expected to present original research---if it feels like you're writing a full-on essay in preparation, then you're probably going too far.  Think of the presentation as a way of communicating to the class your thought process as you went through the week's readings.  How did this text sync up with ideas from previous weeks, or with the overall themes of the course thus far?  What were some particular moments you loved, or had a real problem with?  In other words, you will lay out a series of guideposts and questions that will help orient us in the discussion to follow.
+Your thoughtful participation is required. I do not expect everyone’s manner of thoughtful participation to be identical, but in a small seminar environment it's important that everyone give their best effort.  If you bring your laptop to class, practice good screen etiquette---keep it to the side and don't stare too long.  In addition to regular participation, everyone will be responsible for giving a **brief presentation** (of no more than 10 minutes) once during the semester to open up our readings to discussion.  Your presentation can involve a close reading of a particular passage, a short activity, or a complication of one of the points made by our authors.  You are not expected to present original research---if it feels like you're writing a full-on essay in preparation, then you're probably going too far.  Think of the presentation as a way of communicating to the class your thought process as you went through the week's readings.  How did this text sync up with ideas from previous weeks, or with the overall themes of the course thus far?  What were some particular moments you loved, or had a real problem with?  In other words, you will lay out a series of guideposts and questions that will help orient us in the discussion to follow.
 
 **20% weekly updates**
 
-Students are required to post an update to the CourseWorks blog by 6:00 am every Tuesday.  These updates can take the form of a) an explanation, questioning, or complication of the week's readings, b) an update on your research project, c) an interesting document, resource, or text (primary or secondary) that you've found related to the week's readings.  There are no length requirements or expectations.  This is simply a means of reading and thinking alongside one another as we work through these texts.
-
-More specific exercises may emerge throughout the course of the semester, about which there will be further instruction provided.
+Students are required to post an update to the CourseWorks blog by 6:00 am every Tuesday.  These updates can take the form of, among other things, a) an explanation, questioning, or complication of the week's readings, b) an update on your research project, or c) an interesting document, resource, or text (primary or secondary) that you've found related to the week's readings.  There are no length requirements.  This is simply a means of reading and thinking alongside one another as we work through these texts.  More specific exercises may emerge throughout the course of the semester, about which there will be further instruction provided.
 
 **20% midterm**
 
-A written midterm exam, due to my inbox on the Friday before spring break (**March 11**), will consist of a selection of conceptual keywords that have emerged throughout the semester.  You will be asked to define these keywords in brief explanatory essays.  Please note that we're not looking for a dictionary definition, but rather an elucidation of the term as we have used it in the context of the class: in our discussions, in our readings, and in our project work. You will be expected to cite relevant authors (though not exact quotes or page numbers) as well as class discussions.
+A written midterm exam, due to my inbox on the Friday before spring break (**March 11**), will consist of a selection of conceptual keywords that have emerged throughout the semester.  You will be asked to define these keywords in brief explanatory essays.  Please note that we're not looking for a dictionary definition, but rather an elucidation of the term as we have used it in the context of the class: in our discussions, in our readings, and in our individual research. You will be expected to cite relevant authors (though not exact quotes or page numbers) as well as class discussions.
 
 **50% final paper**
 
@@ -66,9 +63,7 @@ A final paper of 15-20 pages (due **Tuesday, May 3**) will engage with theoretic
 Policies
 ----------
 
-Weekly attendance in seminars is expected. If you must be absent from a session for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions are part of fulfilling the course requirements. I will notify an advising dean if you have three or more unwarranted absences.
-
-No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
+Weekly attendance in seminars is expected. If you must be absent from a session for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions are part of fulfilling the course requirements. I will notify an advising dean if you have three or more unwarranted absences.  No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
 
 Course texts
 --------------
@@ -94,9 +89,11 @@ Preliminaries: realism and naturalism
 
 **January 26**
 
-Zola and Data
+Zola, Experiment, and Data
 
-- Claude Bernard, from *An Introduction to the Study of Experimental Medicine* (1865)
+- Claude Bernard, from [*An Introduction to the Study of Experimental Medicine*](https://archive.org/details/b21270557) (1865)
+    - Chapter 1. Observation and Experiment
+    - Chapter 2. The A Priori Idea and Doubt in Experimental Reasoning
 - Émile Zola, ["The Experimental Novel"](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/Zola_1893_The_Experimental_Novel_-_And_Other_Essays.pdf) (1880)
 - Henry James, ["Émile Zola,"](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/James_1903_E%CC%81mile_Zola.pdf) *The Atlantic Monthly* (1903)
 - Rosenberg, ["Data Before the Fact,"](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/Rosenberg_2013_Data_Before_the_Fact.pdf) in *Raw Data is an Oxymoron* (2013)
