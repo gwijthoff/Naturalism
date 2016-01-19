@@ -1,4 +1,4 @@
-# ENGL W3632: The Science of Fiction: </div> American Naturalism, 1890-1940
+# ENGL W3632: The Science of Fiction: <br>American Naturalism, 1890-1940
 
 **Spring 2016**
 
