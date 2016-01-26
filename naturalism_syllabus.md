@@ -2,7 +2,7 @@
 
 **Spring 2016**
 
-**309 Hamilton Hall | Monday, 10:10 - 12:00**
+**309 Hamilton Hall | Tuesday, 10:10 - 12:00**
 
 * * * * * 
 
