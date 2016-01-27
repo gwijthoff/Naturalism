@@ -107,8 +107,8 @@ Zola, Experiment, and Data
 
 Secondary:
 
-- Allan Sekula, "The Body and the Archive," *October* (Winter 1986)
-- Donald Pizer, "'Maggie' and the Naturalistic Aesthetic of Length," *American Literary Realism* (Fall 1995)
+- Allan Sekula, ["The Body and the Archive,"](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/Sekula_1986_The_Body_and_the_Archive.pdf) *October* (Winter 1986)
+- Donald Pizer, ["'Maggie' and the Naturalistic Aesthetic of Length,"](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/Pizer_1995_Maggie_and_the_Naturalistic_Aesthetic_of_Length.pdf) *American Literary Realism* (Fall 1995)
 
 **February 9**
 
