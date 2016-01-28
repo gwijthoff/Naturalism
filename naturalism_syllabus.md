@@ -114,13 +114,14 @@ Secondary:
 
 - Frank Norris, *McTeague* (1899)
 
-Secondary:
-
-- Dana Seitler, from *Atavistic Tendencies: The Culture of Science in American Modernity* (2008)
-
 **February 16**
 
 - Norris, *McTeague* (continued)
+
+Secondary:
+
+- Dana Seitler, from *Atavistic Tendencies: The Culture of Science in American Modernity* (2008)
+- Gilles Deleuze, selections on naturalism from *Cinema 1: The Movement-Image* (1983), p. 123-130
 
 **February 23**
 
