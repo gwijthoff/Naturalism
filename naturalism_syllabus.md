@@ -120,8 +120,8 @@ Secondary:
 
 Secondary:
 
-- Dana Seitler, from *Atavistic Tendencies: The Culture of Science in American Modernity* (2008)
-- Gilles Deleuze, selections on naturalism from *Cinema 1: The Movement-Image* (1983), p. 123-130
+- Dana Seitler, from [*Atavistic Tendencies: The Culture of Science in American Modernity*](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/Seitler_2008_Atavistic_Tendencies_-_The_Culture_of_Science_in_American_Modernity.pdf) (2008)
+- Gilles Deleuze, selections on naturalism from [*Cinema 1: The Movement-Image*](https://courseworks.columbia.edu/access/content/group/ENGLW3632_001_2016_1/Deleuze_1986_From_Affect_to_Action_-_The_Impulse-Image.pdf) (1983), p. 123-130
 
 **February 23**
 
